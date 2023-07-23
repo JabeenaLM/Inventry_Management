@@ -1,0 +1,12 @@
+{
+    "Rice": {
+        "Ingrediant Type": "Basmati",
+        "Price/kg": 50.0,
+        "Total Price": 2000.0
+    },
+    "Wheat": {
+        "Ingrediant Type": "good",
+        "Price/kg": 40.0,
+        "Total Price": 1600.0
+    }
+}
